@@ -7,3 +7,4 @@
   - [Preparações](part1/preparation.md)
   - [Execução Ad-Hoc](part1/adhoc.md)
   - [Execução Playbooks](part1/playbooks.md)
+  - [Roles](part1/roles.md)
