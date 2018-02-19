@@ -1,5 +1,5 @@
 # workshop-ansible
-> https://redhat-sa-brazil.github.io/workshop-ansible/
+> https://levysantanna.github.io/workshop-ansible/
 
 ## O que é isso?
 
@@ -13,4 +13,4 @@ Para proteger o trabalho de mau uso (infelizmente existem os *espertinhos*), tod
 
 ## Como contribuir?
 
-Aceitamos contribuições de todas as formas! Esse projeto está hospedado no [GitHub @redhat-sa-brazil/workshop-ansible](https://github.com/redhat-sa-brazil/workshop-ansible), onde você pode abrir *issues* para nos avisar de problemas ou fazer sugestões de mudanças.
+Aceitamos contribuições de todas as formas! Esse projeto está hospedado no [GitHub @levysantanna/workshop-ansible](https://github.com/levysantanna/workshop-ansible), onde você pode abrir *issues* para nos avisar de problemas ou fazer sugestões de mudanças.
